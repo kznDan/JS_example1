@@ -40,7 +40,8 @@ delete user.name;*/
   }*/
 
 
-  let obj = {
+
+  /*let obj = {
     width: 200,
     height: 300,
     title: "My menu"
@@ -49,4 +50,34 @@ delete user.name;*/
     if (typeof obj[key] == "number") {
     console.log(obj[key] * 2);
     }
-    }
+    }*/
+
+
+/*let name = "John";
+
+function sayHi() {
+  alert("Hi, " + name);
+}
+
+name = "Pete";
+
+sayHi();*/
+
+
+/*function makeWorker() {
+  let name = "Pete";
+
+  return function() {
+    alert(name);
+  };
+}
+
+let name = "John";
+
+// create a function
+let work = makeWorker();
+
+// call it
+work();*/
+
+
