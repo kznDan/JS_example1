@@ -5,7 +5,7 @@ alert( a + b );*/
 
 
 
-function readNumber() {
+/*function readNumber() {
     let num;
   
     do {
@@ -18,4 +18,8 @@ function readNumber() {
   }
   
   alert(`Число: ${readNumber()}`);
+
+
+
+  */
   
