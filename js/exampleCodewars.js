@@ -63,5 +63,27 @@ function greet(name){
 
 */
 
+/*const promise = new Promise((resolve, reject) => {
+  reject(Error('Some error occurred'));
+})
+promise.catch(error => console.log(error.message));
+promise.catch(error => console.log(error.message));
+*/
+
+
+
+/*function evenOrOdd(number) {
+  if(number % 2 === 0) {
+    return 'Even';
+  } else {
+    return 'Odd';
+  }
+
+} */
+
+
+
+
+
 
 
